@@ -34,7 +34,7 @@ class CryptoPriceMonitor:
         print(table)
 
 # Replace with your CoinMarketCap API key
-api_key = 'c9ceaa19-545d-4c60-8c59-862eef87115e'
+api_key = ''
 
 # Create an instance of the CryptoPriceMonitor
 monitor = CryptoPriceMonitor(api_key)
